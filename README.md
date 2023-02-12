@@ -1,0 +1,2 @@
+# thindash
+Thin Lodash implementation
